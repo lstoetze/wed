@@ -1,0 +1,11 @@
+Package: wed
+Version: 0.0
+Date: 2004-01-01
+Title: WED - Weighted Euclidean Distance Voting Model
+Author: Lukas Stoetzer and Steffen Zittlau
+Maintainer: Lukas Stoetzer <lstoetze@mail.uni-mannheim.de>
+Description: A short (one paragraph) description of what
+  the package does and why it may be useful.
+License: GPL (>= 2)
+URL: http://www.r-project.org, http://www.another.url
+BugReports: http://pkgname.bugtracker.url
